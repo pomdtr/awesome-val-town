@@ -21,8 +21,7 @@
 ### Internal
 
 - [SQLite Explorer](https://www.val.town/v/nbbaier/sqliteExplorerApp) - View and interact with your Val Town SQLite data
-- [Blob Admin](https://www.val.town/v/stevekrouse/blob_admin)
-- [Test Explorer](https://www.val.town/v/pomdtr/test_explorer)
+- [Blob Admin](https://www.val.town/v/stevekrouse/blob_admin) - Manage your blobs from a web interface.
 - [Cron Compiler](https://stevekrouse-cron.web.val.run/) - Go from natural language to cron expressions.
 
 ### External
@@ -49,6 +48,7 @@ These tools requires you to wrap you http handler in a middleware to add the fun
 
 - [@pomdtr/password_auth](https://www.val.town/v/pomdtr/password_auth) - Protect your vals behind a password.
 - [@pomdtr/email_auth](https://www.val.town/v/pomdtr/email_auth) - Protect your vals behind an email verification (requires pro account).
+- [@pomdtr/http_client](https://www.val.town/v/pomdtr/http_client) - Add a Postman-like interface to your val.
 - [andreterron/codeOnValTown](https://www.val.town/v/andreterron/codeOnValTown) - Adds a "Code on Val Town" ribbon to your page.
 
 ### Sqlite
