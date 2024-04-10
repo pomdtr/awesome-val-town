@@ -13,7 +13,7 @@
   - [Sqlite](#sqlite)
   - [Blobs](#blobs)
   - [Markdown](#markdown)
-  - [Http](#http)
+  - [HTTP](#http)
   - [API](#api)
 
 ## Apps / Websites
@@ -68,7 +68,7 @@ These tools requires you to wrap you http handler in a middleware to add the fun
 - [@pomdtr/mdx](https://www.val.town/v/pomdtr/mdx) - Serve you readme as a MDX file.
 - [@pomdtr/serveReadme](https://www.val.town/v/pomdtr/serve_readme) - Serve your val readme on it's http endpoint.
 
-### Http
+### HTTP
 
 - [@stevekrouse/fetchJSON](https://www.val.town/v/stevekrouse/fetchJSON) - Remove the boilerplate of fetching JSON data from the val.town API. Variants: `fetchText`, `fetchRSS`
 
